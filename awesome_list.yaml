@@ -1,0 +1,24 @@
+name: awesome-flutter-mobile
+description: A curated list of awesome things related to Flutter mobile.
+categories:
+  - id: packages
+    name: Packages
+  - id: projects
+    name: Projects
+tags:
+  - id: uikit
+    name: UIKit
+  - id: media
+    name: Media
+entities:
+  # PACKAGES
+  - pub_id: provider
+    github_id: rrousselGit/provider
+    category: packages
+  - pub_id: shared_preferences
+    github_id: flutter/plugins
+    category: packages
+  # PROJECTS
+  - name: Deer
+    github_id: aleksanderwozniak/deer
+    category: projects

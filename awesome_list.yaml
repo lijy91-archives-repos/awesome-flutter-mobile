@@ -14,15 +14,287 @@ tags:
     name: Media
 entities:
   # PACKAGES
-  - pub_id: provider
-    github_id: rrousselGit/provider
-    category: packages
   - pub_id: shared_preferences
     github_id: flutter/plugins
     category: packages
+  - pub_id: flutter_tags
+    github_id: Dn-a/flutter_tags
+    category: packages
+  - pub_id: flutter_inner_drawer
+    github_id: Dn-a/flutter_inner_drawer
+    category: packages
+  - pub_id: flutter_neumorphic
+    github_id: Idean/Flutter-Neumorphic
+    category: packages
+  - pub_id: calendar_strip
+    github_id: IronLad85/flutter_calendar_strip
+    category: packages
+  - pub_id: flutter_styled_toast
+    github_id: JackJonson/flutter_styled_toast
+    category: packages
+  - pub_id: flutter_animated_dialog
+    github_id: JackJonson/flutter_animated_dialog
+    category: packages
+  - pub_id: flutter_sliding_up_panel
+    github_id: JackJonson/flutter_sliding_up_panel
+    category: packages
+  - pub_id: pin_code_text_field
+    github_id: LiewJunTung/pin_code_text_field
+    category: packages
   - pub_id: bot_toast
     github_id: MMMzq/bot_toast
+    livepreview_url: 'https://mmmzq.github.io/bot_toast/'
     category: packages
+  - pub_id: flutter_date_pickers
+    github_id: MariaMelnik/flutter_date_pickers
+    category: packages
+  - pub_id: horizontal_data_table
+    github_id: MayLau-CbL/flutter_horizontal_data_table
+    category: packages
+  - pub_id: horizontal_center_date_picker
+    github_id: MayLau-CbL/flutter_horizontal_center_date_picker
+    category: packages
+  - pub_id: oktoast
+    github_id: OpenFlutter/flutter_oktoast
+    category: packages
+  - pub_id: k_chart
+    github_id: OpenFlutter/k_chart
+    category: packages
+  - pub_id: flutter_page_indicators
+    github_id: OpenFlutter/flutter_page_indicators
+    category: packages
+  - pub_id: credit_card_input_form
+    github_id: Origogi/Flutter-Credit-Card-Input-Form
+    category: packages
+  - pub_id: vertical_card_pager
+    github_id: Origogi/Vertical_Card_Pager
+    livepreview_url: 'https://origogi.github.io/Vertical_Card_Pager/'
+    category: packages
+  - pub_id: horizontal_card_pager
+    github_id: Origogi/Horizontal_Card_Pager
+    livepreview_url: 'https://origogi.github.io/Horizontal_Card_Pager/'
+    category: packages
+  - pub_id: toggle_switch
+    github_id: PramodJoshi/toggle_switch
+    category: packages
+  - pub_id: hidden_drawer_menu
+    github_id: RafaelBarbosatec/hidden_drawer_menu
+    category: packages
+  - pub_id: rflutter_alert
+    github_id: RatelHub/rflutter_alert
+    category: packages
+  - pub_id: liquid_pull_to_refresh
+    github_id: aagarwal1012/Liquid-Pull-To-Refresh
+    category: packages
+  - pub_id: pin_code_fields
+    github_id: adar2378/pin_code_fields
+    category: packages
+  - pub_id: sliding_up_panel
+    github_id: akshathjain/sliding_up_panel
+    category: packages
+  - pub_id: table_calendar
+    github_id: aleksanderwozniak/table_calendar
+    category: packages
+  - pub_id: material_floating_search_bar
+    github_id: bnxm/material_floating_search_bar
+    category: packages
+  - pub_id: snaplist
+    github_id: ariedov/flutter_snaplist
+    category: packages
+  - pub_id: flutter_rounded_date_picker
+    github_id: benznest/flutter_rounded_date_picker
+    category: packages
+  - pub_id: transformer_page_view
+    github_id: best-flutter/transformer_page_view
+    category: packages
+  - pub_id: easy_alert
+    github_id: best-flutter/easy_alert
+    category: packages
+  - pub_id: sweetalert
+    github_id: best-flutter/sweetalert
+    category: packages
+  - pub_id: pie_chart
+    github_id: apgapg/pie_chart
+    livepreview_url: 'https://apgapg.github.io/pie_chart/'
+    category: packages
+  - pub_id: overlay_support
+    github_id: boyan01/overlay_support
+    category: packages
+  - pub_id: flutter_material_pickers
+    github_id: codegrue/flutter_material_pickers
+    category: packages
+  - pub_id: card_settings
+    github_id: codegrue/card_settings
+    category: packages
+  - pub_id: pagination_view
+    github_id: excogitatr/pagination_view
+    category: packages
+  - pub_id: folding_cell
+    github_id: faob-dev/folding_cell
+    category: packages
+  - pub_id: flutter_circular_text
+    github_id: faob-dev/flutter_circular_text
+    category: packages
+  - pub_id: flutter_freshchat
+    github_id: fayeed/flutter_freshchat
+    category: packages
+  - pub_id: flutter_mentions
+    github_id: fayeed/flutter_mentions
+    category: packages
+  - pub_id: flutter_parsed_text
+    github_id: fayeed/flutter_parsed_text
+    category: packages
+  - pub_id: flip_card
+    github_id: fedeoo/flip_card
+    category: packages
+  - pub_id: photo_view
+    github_id: fireslime/photo_view
+    category: packages
+  - pub_id: flutter_markdown
+    github_id: flutter/flutter_markdown
+    category: packages
+  - pub_id: extended_image
+    github_id: fluttercandies/extended_image
+    livepreview_url: 'https://fluttercandies.github.io/extended_image/'
+    category: packages
+  - pub_id: flutter_custom_calendar
+    github_id: fluttercandies/flutter_custom_calendar
+    category: packages
+  - pub_id: extended_nested_scroll_view
+    github_id: fluttercandies/extended_nested_scroll_view
+    livepreview_url: 'https://fluttercandies.github.io/extended_nested_scroll_view/'
+    category: packages
+  - pub_id: azlistview
+    github_id: flutterchina/azlistview
+  - pub_id: nine_grid_view
+    github_id: flutterchina/nine_grid_view
+    category: packages
+  - pub_id: responsive_scaffold
+    github_id: fluttercommunity/responsive_scaffold
+    livepreview_url: 'https://fluttercommunity.github.io/responsive_scaffold/'
+    category: packages
+  - pub_id: page_turn
+    github_id: fluttercommunity/page_turn
+    livepreview_url: 'https://fluttercommunity.github.io/page_turn/'
+    category: packages
+  - pub_id: flutter_blurhash
+    github_id: fluttercommunity/flutter_blurhash
+    category: packages
+  - pub_id: flutter_k_chart
+    github_id: gwhcn/flutter_k_chart
+    category: packages
+  - pub_id: convex_bottom_bar
+    github_id: hacktons/convex_bottom_bar
+    category: packages
+  - pub_id: pattern_formatter
+    github_id: hnvn/flutter_pattern_formatter
+    category: packages
+  - pub_id: fl_chart
+    github_id: imaNNeoFighT/fl_chart
+    category: packages
+  - pub_id: circular_bottom_navigation
+    github_id: imaNNeoFighT/circular_bottom_navigation
+    category: packages
+  - pub_id: modal_bottom_sheet
+    github_id: jamesblasco/modal_bottom_sheet
+    livepreview_url: 'https://jamesblasco.github.io/modal_bottom_sheet/'
+    category: packages
+  - pub_id: dough
+    github_id: josiahsrc/flutter_dough
+    category: packages
+  - pub_id: custom_radio_grouped_button
+    github_id: ketanchoyal/custom_radio_grouped_button
+    category: packages
+  - pub_id: flutter_slidable
+    github_id: letsar/flutter_slidable
+    category: packages
+  - pub_id: flutter_sticky_header
+    github_id: letsar/flutter_sticky_header
+    category: packages
+  - pub_id: flutter_scatter
+    github_id: letsar/flutter_scatter
+    category: packages
+  - pub_id: overflow_view
+    github_id: letsar/overflow_view
+    category: packages
+  - pub_id: flutter_sidekick
+    github_id: letsar/flutter_sidekick
+    category: packages
+  - pub_id: flutter_swipe_action_cell
+    github_id: luckysmg/flutter_swipe_action_cell
+    category: packages
+  - pub_id: indexed_list_view
+    github_id: marcglasberg/indexed_list_view
+    category: packages
+  - pub_id: sleek_circular_slider
+    github_id: matthewfx/sleek_circular_slider
+    category: packages
+  - pub_id: rubber
+    github_id: mcrovero/rubber
+    category: packages
+  - pub_id: flutter_zoom_drawer
+    github_id: medyas/flutter_zoom_drawer
+    category: packages
+  - pub_id: flutter_staggered_animations
+    github_id: mobiten/flutter_staggered_animations
+    category: packages
+  - pub_id: device_preview
+    github_id: mobiten/device_preview
+    livepreview_url: 'https://flutter-device-preview.firebaseapp.com'
+    category: packages
+  - pub_id: preload_page_view
+    github_id: octomato/preload_page_view
+    category: packages
+  - pub_id: bottom_navy_bar
+    github_id: pedromassango/bottom_navy_bar
+    category: packages
+  - pub_id: titled_navigation_bar
+    github_id: pedromassango/titled_navigation_bar
+    category: packages
+  - pub_id: dots_indicator
+    github_id: pyozer/dots_indicator
+    category: packages
+  - pub_id: data_tables
+    url: 'https://pub.dev/packages/data_tables'
+    github_id: rodydavis/data_tables
+    category: packages
+  - pub_id: provider
+    github_id: rrousselGit/provider
+    category: packages
+  - pub_id: flutter_fluid_slider
+    github_id: rvamsikrishna/flutter_fluid_slider
+    category: packages
+  - pub_id: flutter_rating_bar
+    github_id: sarbagyastha/flutter_rating_bar
+    livepreview_url: 'https://sarbagyastha.com.np/flutter_rating_bar/'
+    category: packages
+  - pub_id: flutter_carousel_slider
+    github_id: serenader2014/flutter_carousel_slider
+    livepreview_url: 'https://serenader2014.github.io/flutter_carousel_slider/'
+    category: packages
+  - pub_id: concentric_transition
+    github_id: tiamo/flutter-concentric-transition
+    category: packages
+  - pub_id: simple_map
+    github_id: tiamo/flutter-simple-map
+    category: packages
+  - pub_id: sticky_and_expandable_list
+    github_id: tp7309/flutter_sticky_and_expandable_list
+    category: packages
+  - pub_id: fancy_bottom_navigation
+    github_id: tunitowen/fancy_bottom_navigation
+    category: packages
+  - pub_id: scratcher
+    github_id: vintage/scratcher
+    category: packages
+  - pub_id: crop
+    github_id: xclud/flutter_crop
+    livepreview_url: https://xclud.github.io/flutter_crop/
+    category: packages
+  - pub_id: giffy_dialog
+    github_id: xsahil03x/giffy_dialog
+    category: packages
+
   # PROJECTS
   - name: Deer
     github_id: aleksanderwozniak/deer

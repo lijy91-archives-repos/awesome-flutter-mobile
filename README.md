@@ -14,7 +14,7 @@ A curated list of awesome things related to Flutter mobile.
 - [awesome-flutter-mobile](#awesome-flutter-mobile)
   - [Packages](#packages)
   - [Projects](#projects)
-  - [Discussion](#discussion)
+  - [Related](#related)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -29,16 +29,13 @@ A curated list of awesome things related to Flutter mobile.
 ## Projects
 - [Deer](https://github.com/aleksanderwozniak/deer) - Minimalist Flutter Todo App, built using BLoC pattern
 
+## Related
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) - A curated list of awesome things related to Flutter desktop.
+- [awesome-flutter-linux](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects.
+
 
 <!-- AWESOME_LIST_MAKER -->
-
-## Discussion
-
-> Welcome to join the discussion group to share your suggestions and ideas with me.
-
-- WeChat Group 请添加我的微信 `lijy91`，并备注 `LeanFlutter`
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
-- [Telegram Group](https://t.me/leanflutter)
 
 ## Contribution
 
@@ -47,5 +44,3 @@ Please make sure to read the [Contributing Guide](./CONTRIBUTING.md) before maki
 ## License
 
 [MIT](./LICENSE)
-
-Copyright (c) 2021 LiJianying <lijy91@foxmail.com>

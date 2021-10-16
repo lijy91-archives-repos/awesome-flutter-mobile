@@ -5,6 +5,8 @@ categories:
     name: Packages
   - id: projects
     name: Projects
+  - id: related
+    name: Related
 tags:
   - id: uikit
     name: UIKit
@@ -18,7 +20,20 @@ entities:
   - pub_id: shared_preferences
     github_id: flutter/plugins
     category: packages
+  - pub_id: bot_toast
+    github_id: MMMzq/bot_toast
+    category: packages
   # PROJECTS
   - name: Deer
     github_id: aleksanderwozniak/deer
     category: projects
+  # RELATED
+  - name: awesome-flutter-desktop
+    github_id: leanflutter/awesome-flutter-desktop
+    category: related
+  - name: awesome-flutter-linux
+    github_id: jpnurmi/awesome-flutter-linux
+    category: related
+  - name: awesome-flutter
+    github_id: Solido/awesome-flutter
+    category: related

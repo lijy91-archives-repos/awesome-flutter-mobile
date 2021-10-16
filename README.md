@@ -23,6 +23,7 @@ A curated list of awesome things related to Flutter mobile.
 <!-- AWESOME_LIST_MAKER -->
 
 ## Packages
+- [bot_toast](https://github.com/MMMzq/bot_toast) - A really easy to use flutter toast library.Easy to use and feature rich.
 - [provider](https://github.com/rrousselGit/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
 - [shared_preferences](https://github.com/flutter/plugins) - Flutter plugin for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.
 

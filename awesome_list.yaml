@@ -294,7 +294,9 @@ entities:
   - pub_id: giffy_dialog
     github_id: xsahil03x/giffy_dialog
     category: packages
-
+  - pub_id: crop_your_image
+    github_id: chooyan-eng/crop_your_image
+    category: packages
   # PROJECTS
   - name: Deer
     github_id: aleksanderwozniak/deer

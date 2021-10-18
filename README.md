@@ -32,6 +32,7 @@ A curated list of awesome things related to Flutter mobile.
 - [convex_bottom_bar](https://github.com/hacktons/convex_bottom_bar) - A Flutter package which implements a ConvexAppBar to show a convex tab in the bottom bar. Theming supported. 
 - [credit_card_input_form](https://github.com/Origogi/Flutter-Credit-Card-Input-Form) - This package provides visually beautiful UX through animation of credit card information input form. 
 - [crop](https://github.com/xclud/flutter_crop) - Crop for Flutter. Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in 100% pure Dart code. ([Live Preview](https://xclud.github.io/flutter_crop/))
+- [crop_your_image](https://github.com/chooyan-eng/crop_your_image) - crop_your_image helps your app to embed Widgets for cropping images. 
 - [custom_radio_grouped_button](https://github.com/ketanchoyal/custom_radio_grouped_button) - Custom Radio Buttons and Grouped Check Box Button 
 - [data_tables](https://github.com/rodydavis/data_tables) - ListView on Mobile and Stateless Data Tables on Tablets and Desktops. 
 - [device_preview](https://github.com/mobiten/device_preview) - Approximate how your Flutter app looks and performs on another device. ([Live Preview](https://flutter-device-preview.firebaseapp.com))

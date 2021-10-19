@@ -297,6 +297,9 @@ entities:
   - pub_id: crop_your_image
     github_id: chooyan-eng/crop_your_image
     category: packages
+  - pub_id: just_audio
+    github_id: ryanheise/just_audio
+    category: packages
   # PROJECTS
   - name: Deer
     github_id: aleksanderwozniak/deer

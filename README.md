@@ -79,6 +79,7 @@ A curated list of awesome things related to Flutter mobile.
 - [horizontal_center_date_picker](https://github.com/MayLau-CbL/flutter_horizontal_center_date_picker) - A flutter widget provides a horizontal date picker and always aligns selected date in center. 
 - [horizontal_data_table](https://github.com/MayLau-CbL/flutter_horizontal_data_table) - A horizontal data table with a fixed column on left handside. 
 - [indexed_list_view](https://github.com/marcglasberg/indexed_list_view) - Infinite ListView that lets you programmatically jump instantly to any item, by index. Performant for lists of any size. 
+- [just_audio](https://github.com/ryanheise/just_audio) - A feature-rich audio player for Flutter. Loop, clip and concatenate any sound from any source (asset/file/URL/stream) in a variety of audio formats with gapless playback. 
 - [k_chart](https://github.com/OpenFlutter/k_chart) - A Flutter K Chart. 
 - [liquid_pull_to_refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - A beautiful and custom refresh indicator with some cool animations and transitions for flutter. 
 - [material_floating_search_bar](https://github.com/bnxm/material_floating_search_bar) - A Flutter implementation of an expandable and animated floating search bar, also known as persistent search. 

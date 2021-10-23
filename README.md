@@ -84,6 +84,7 @@ A curated list of awesome things related to Flutter mobile.
 - [liquid_pull_to_refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - A beautiful and custom refresh indicator with some cool animations and transitions for flutter. 
 - [material_floating_search_bar](https://github.com/bnxm/material_floating_search_bar) - A Flutter implementation of an expandable and animated floating search bar, also known as persistent search. 
 - [modal_bottom_sheet](https://github.com/jamesblasco/modal_bottom_sheet) - Create awesome and powerful modal bottom sheets. Material, Cupertino iOS 13 or create your own style ([Live Preview](https://jamesblasco.github.io/modal_bottom_sheet/))
+- [multi_split_view](https://github.com/caduandrade/multi_split_view) - Provides horizontal or vertical multiple split view for Flutter. 
 - [nine_grid_view](https://github.com/flutterchina/nine_grid_view) - Flutter NineGridView & DragSortView, Similar to Weibo / WeChat nine grid view controls to display pictures. 
 - [oktoast](https://github.com/OpenFlutter/flutter_oktoast) - A pure flutter toast library, support custom style/widget, easy achieve the same effect with native toasts. 
 - [overflow_view](https://github.com/letsar/overflow_view) - A widget displaying children in a line with an overflow indicator at the end if there is not enough space. 

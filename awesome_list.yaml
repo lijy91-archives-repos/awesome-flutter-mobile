@@ -300,6 +300,9 @@ entities:
   - pub_id: just_audio
     github_id: ryanheise/just_audio
     category: packages
+  - pub_id: multi_split_view
+    github_id: caduandrade/multi_split_view
+    category: packages
   # PROJECTS
   - name: Deer
     github_id: aleksanderwozniak/deer
